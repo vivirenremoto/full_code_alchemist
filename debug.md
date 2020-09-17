@@ -7,12 +7,12 @@ Log.d(tag, variable);
 
 **Javascript**
 ```
-console.log(var)
+console.log(variable);
 ```
 
 **Objective-C**
 ```
-NSLog(@"%@", var);
+NSLog(@"%@", variable);
 ```
 
 **PHP**
