@@ -16,7 +16,8 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 
 # Próximamente...
 
-- Definir variable tipo array
+- Definir número entero
+- Defimke número decimal
 - Definir constante
 - Definir array
 - Definir número entero
