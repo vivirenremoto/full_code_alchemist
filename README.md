@@ -17,6 +17,7 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 
 # Próximamente...
 
+- Concatenar dos strings
 - Definir número entero
 - Definir número decimal
 - Definir array
