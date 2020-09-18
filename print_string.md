@@ -1,4 +1,4 @@
-# Print text
+# Print string
 
 **Java - Android**
 ```
