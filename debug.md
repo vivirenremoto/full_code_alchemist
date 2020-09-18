@@ -2,17 +2,17 @@
 
 **Java - Android**
 ```
-Log.d(tag, variable);
+String = "hello";
 ```
 
 **Javascript**
 ```
-console.log(variable);
+var variable = "hello";
 ```
 
 **Objective-C**
 ```
-NSLog(@"%@", variable);
+NSString *variable = @"hello";
 ```
 
 **PHP**
