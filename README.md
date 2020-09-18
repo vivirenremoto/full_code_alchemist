@@ -1,4 +1,4 @@
-# code_converter
+# Code Equivalent
 
 - [Print text](https://github.com/vivirenremoto/equivalent_code/blob/master/print_text.md)
 - [Define text](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string.md)
