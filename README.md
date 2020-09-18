@@ -18,6 +18,12 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 
 - Definir variable tipo array
 - Definir constante
+- Guardar cookie
+- Consultar cookie
+- Eliminar cookie
+- Guardar variable en la sesión
+- Consultar variable en la sesión
+- Conectarse a una base de datos MySQL
 
 # Notas
 
