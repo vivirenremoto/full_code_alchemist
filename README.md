@@ -8,7 +8,9 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 
 - [Print text](https://github.com/vivirenremoto/equivalent_code/blob/master/print_text.md)
 - [Define string](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string.md)
+- [Define integer](https://github.com/vivirenremoto/equivalent_code/blob/master/define_integer.md)
 - [Define string constant](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string_constant.md)
+- [Concatenate two strings](https://github.com/vivirenremoto/equivalent_code/blob/master/concatenate_two_strings.md)
 - [Debug](https://github.com/vivirenremoto/equivalent_code/blob/master/debug.md)
 - [Replace text](https://github.com/vivirenremoto/equivalent_code/blob/master/replace_text.md)
 - [Split string to array](https://github.com/vivirenremoto/equivalent_code/blob/master/split_string_to_array.md)
@@ -17,8 +19,6 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 
 # Próximamente...
 
-- Concatenar dos strings
-- Definir número entero
 - Definir número decimal
 - Definir array
 - Definir boleano
