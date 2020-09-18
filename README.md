@@ -7,8 +7,8 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 # Índice
 
 - [Print text](https://github.com/vivirenremoto/equivalent_code/blob/master/print_text.md)
-- [Define text](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string.md)
-- [Define text constant](https://github.com/vivirenremoto/equivalent_code/blob/master/define_text_constant.md)
+- [Define string](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string.md)
+- [Define string constant](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string_constant.md)
 - [Debug](https://github.com/vivirenremoto/equivalent_code/blob/master/debug.md)
 - [Replace text](https://github.com/vivirenremoto/equivalent_code/blob/master/replace_text.md)
 - [Split string to array](https://github.com/vivirenremoto/equivalent_code/blob/master/split_string_to_array.md)
