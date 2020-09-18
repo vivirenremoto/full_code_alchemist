@@ -8,3 +8,7 @@
 - [Parse string to JSON object](https://github.com/vivirenremoto/equivalent_code/blob/master/parse_json.md)
 - [Convert array to JSON string](https://github.com/vivirenremoto/equivalent_code/blob/master/convert_array_to_json_string.md)
 
+# Próximamente...
+
+- Definir variable tipo array
+- Definir constante
