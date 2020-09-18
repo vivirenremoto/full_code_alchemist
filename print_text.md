@@ -13,7 +13,7 @@ document.write("hello world");
 
 **Objective-C**
 ```
-textView.insertText("hello world")
+textView.insertText("hello world");
 ```
 
 **PHP**
