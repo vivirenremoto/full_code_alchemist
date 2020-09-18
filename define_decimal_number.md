@@ -12,7 +12,7 @@ var variable = 1.23;
 
 **Objective-C**
 ```
-let variable = 1.23
+let variable = 1.23;
 ```
 
 **PHP**
