@@ -6,7 +6,7 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 
 # Índice
 
-- [Print text](https://github.com/vivirenremoto/equivalent_code/blob/master/print_text.md)
+- [Print string](https://github.com/vivirenremoto/equivalent_code/blob/master/print_string.md)
 - [Define string](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string.md)
 - [Define integer](https://github.com/vivirenremoto/equivalent_code/blob/master/define_integer.md)
 - [Define decimal number](https://github.com/vivirenremoto/equivalent_code/blob/master/define_decimal_number.md)
