@@ -8,6 +8,7 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 
 - [Print text](https://github.com/vivirenremoto/equivalent_code/blob/master/print_text.md)
 - [Define text](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string.md)
+- [Define text constant](https://github.com/vivirenremoto/equivalent_code/blob/master/define_text_constant.md)
 - [Debug](https://github.com/vivirenremoto/equivalent_code/blob/master/debug.md)
 - [Replace text](https://github.com/vivirenremoto/equivalent_code/blob/master/replace_text.md)
 - [Split string to array](https://github.com/vivirenremoto/equivalent_code/blob/master/split_string_to_array.md)
@@ -17,8 +18,7 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 # Próximamente...
 
 - Definir número entero
-- Defimke número decimal
-- Definir constante
+- Definir número decimal
 - Definir array
 - Definir número entero
 - Definir número decimal
