@@ -1,6 +1,6 @@
 # Code Equivalent
 
-Cuando busco como se hace x cosa pero en otro lenguaje de programación, suelo recurrir a stackoverflow y me gustaría un tipo de índice a snippets para tenerlo siempre a mano.
+Cuando busco como se hace x cosa pero en otro lenguaje de programación al que suelo usar, siempre busco en Google y luego entro en algún resultado de stackoverflow, me gustaría un tipo de índice de snippets para tenerlo siempre a mano.
 
 Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sabes la teoría pero desconoces la sintaxis.
 
