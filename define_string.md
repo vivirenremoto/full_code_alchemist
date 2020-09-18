@@ -2,21 +2,21 @@
 
 **Java - Android**
 ```
-String = "hello";
+String variable = "text";
 ```
 
 **Javascript**
 ```
-var variable = "hello";
+var variable = "text";
 ```
 
 **Objective-C**
 ```
-NSString *variable = @"hello";
+NSString *variable = @"text";
 ```
 
 **PHP**
 ```
-$string = "hello";
-``````
+$variable = "text";
+```
 
