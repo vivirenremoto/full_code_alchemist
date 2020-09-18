@@ -18,12 +18,24 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 
 - Definir variable tipo array
 - Definir constante
+- Definir array
+- Definir número entero
+- Definir número decimal
+- Condición IF
+- Bucle FOR
+- Bucle WHILE
+- Importar fichero
 - Guardar cookie
 - Consultar cookie
 - Eliminar cookie
 - Guardar variable en la sesión
 - Consultar variable en la sesión
 - Conectarse a una base de datos MySQL
+- Hacer una consulta a una base de datos MySQL
+- Leer contenido de una URL
+- Crear un fichero
+- Leer un fichero
+- Eliminar un fichero
 
 # Notas
 
