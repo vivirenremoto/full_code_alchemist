@@ -21,6 +21,10 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 - Definir array
 - Definir número entero
 - Definir número decimal
+- Redondear a dos decimales
+- Convertir número a string
+- Convertir string a número
+- Obtener fecha y hora actual
 - Condición IF
 - Bucle FOR
 - Bucle WHILE
@@ -36,6 +40,7 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 - Crear un fichero
 - Leer un fichero
 - Eliminar un fichero
+- Parsear XML
 
 # Notas
 
