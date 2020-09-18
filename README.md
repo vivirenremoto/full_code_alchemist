@@ -20,6 +20,7 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 - Definir número entero
 - Definir número decimal
 - Definir array
+- Definir boleano
 - Definir número entero
 - Definir número decimal
 - Redondear a dos decimales
