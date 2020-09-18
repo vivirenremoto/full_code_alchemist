@@ -1,5 +1,11 @@
 # Code Equivalent
 
+Cuando busco como se hace x cosa pero en otro lenguaje de programación, suelo recurrir a stackoverflow y me gustaría un tipo de índice a snippets para tenerlo siempre a mano.
+
+Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sabes la teoría pero desconoces la sintaxis.
+
+# Índice
+
 - [Print text](https://github.com/vivirenremoto/equivalent_code/blob/master/print_text.md)
 - [Define text](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string.md)
 - [Debug](https://github.com/vivirenremoto/equivalent_code/blob/master/debug.md)
@@ -12,3 +18,7 @@
 
 - Definir variable tipo array
 - Definir constante
+
+# Notas
+
+Los lenguajes de programación van ordenados alfabéticamente.
