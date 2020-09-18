@@ -3,8 +3,7 @@
 **Java - Android**
 ```
 TextView textView = (TextView) findViewById(R.id.textView);
-textView.setText("Hello world");  
-
+textView.setText("Hello world");
 ```
 
 **Javascript**
