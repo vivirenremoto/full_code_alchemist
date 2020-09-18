@@ -1,4 +1,4 @@
-# Define text constant
+# Define string constant
 
 **Java - Android**
 ```
