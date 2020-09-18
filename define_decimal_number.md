@@ -1,4 +1,4 @@
-# Define integer
+# Define decimal number
 
 **Java - Android**
 ```
