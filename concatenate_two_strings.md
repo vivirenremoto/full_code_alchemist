@@ -1,4 +1,4 @@
-# Concat two strings
+# Concatenate two strings
 
 **Java - Android**
 ```
