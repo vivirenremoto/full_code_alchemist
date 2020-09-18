@@ -2,20 +2,20 @@
 
 **Java - Android**
 ```
-String = "hello";
+Log.d(tag, variable);
 ```
 
 **Javascript**
 ```
-var variable = "hello";
+console.log(variable);
 ```
 
 **Objective-C**
 ```
-NSString *variable = @"hello";
+NSLog(@"%@", variable);
 ```
 
 **PHP**
 ```
 var_dump($variable);
-``````
+```
