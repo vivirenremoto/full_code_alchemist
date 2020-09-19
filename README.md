@@ -14,6 +14,7 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 - [Define boolean](https://github.com/vivirenremoto/equivalent_code/blob/master/define_boolean.md)
 - [Define string constant](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string_constant.md)
 - [Round number to two decimals](https://github.com/vivirenremoto/equivalent_code/blob/master/round_number_two_decimals.md)
+- [Convert integer to string](https://github.com/vivirenremoto/equivalent_code/blob/master/convert_integer_to_string.md)
 - [Concatenate two strings](https://github.com/vivirenremoto/equivalent_code/blob/master/concatenate_two_strings.md)
 - [Debug](https://github.com/vivirenremoto/equivalent_code/blob/master/debug.md)
 - [Replace text](https://github.com/vivirenremoto/equivalent_code/blob/master/replace_text.md)
