@@ -3,7 +3,7 @@
 **Java - Android**
 ```
 int i = 0;
-while( i < 10 )
+while ( i < 10 )
 {
    i++;
 }
@@ -12,7 +12,7 @@ while( i < 10 )
 **Javascript**
 ```
 i = 0;
-while (i < 10)
+while ( i < 10 )
 {
   i++;
 }
@@ -30,7 +30,7 @@ while ( i < 10 )
 **PHP**
 ```
 $i = 0;
-while( $i < 10 )
+while ( $i < 10 )
 {
    $i++;
 }
