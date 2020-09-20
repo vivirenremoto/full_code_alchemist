@@ -1,48 +1,38 @@
-# Code Equivalent
+# Code Alchemist
 
-Cuando busco como se hace x cosa pero en otro lenguaje de programación al que suelo usar, siempre busco en Google y luego entro en algún resultado de stackoverflow, me gustaría un tipo de índice de snippets para tenerlo siempre a mano.
+I want to recopile the solution to simple programming problems in several languages such as defining a text string, concatenating two text strings or replacing one text within another.
 
-Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sabes la teoría pero desconoces la sintaxis.
+I think this can be very useful when you want to learn a new language or you need to change a language that is not usual for you, you know the theory but you don't know the syntax.
 
-# Índice
+# Content
 
-- [Print string](https://github.com/vivirenremoto/equivalent_code/blob/master/print_string.md)
-- [Define string](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string.md)
-- [Define integer number](https://github.com/vivirenremoto/equivalent_code/blob/master/define_integer_number.md)
-- [Define decimal number](https://github.com/vivirenremoto/equivalent_code/blob/master/define_decimal_number.md)
-- [Define array](https://github.com/vivirenremoto/equivalent_code/blob/master/define_array.md)
-- [Define boolean](https://github.com/vivirenremoto/equivalent_code/blob/master/define_boolean.md)
-- [Define string constant](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string_constant.md)
-- [Debug](https://github.com/vivirenremoto/equivalent_code/blob/master/debug.md)
-- [Round number to two decimals](https://github.com/vivirenremoto/equivalent_code/blob/master/round_number_two_decimals.md)
-- [Convert integer to string](https://github.com/vivirenremoto/equivalent_code/blob/master/convert_integer_to_string.md)
-- [Convert string to integer](https://github.com/vivirenremoto/equivalent_code/blob/master/convert_string_to_integer.md)
-- [Concatenate two strings](https://github.com/vivirenremoto/equivalent_code/blob/master/concatenate_two_strings.md)
-- [If condition](https://github.com/vivirenremoto/equivalent_code/blob/master/if_condition.md)
-- [Loop Foor](https://github.com/vivirenremoto/equivalent_code/blob/master/loop_for.md)
-- [Loop While](https://github.com/vivirenremoto/equivalent_code/blob/master/loop_while.md)
-- [Replace text](https://github.com/vivirenremoto/equivalent_code/blob/master/replace_text.md)
-- [Split string to array](https://github.com/vivirenremoto/equivalent_code/blob/master/split_string_to_array.md)
-- [Parse string to JSON object](https://github.com/vivirenremoto/equivalent_code/blob/master/parse_json.md)
-- [Convert array to JSON string](https://github.com/vivirenremoto/equivalent_code/blob/master/convert_array_to_json_string.md)
+- [Print string](https://github.com/vivirenremoto/equivalent_code/blob/master/content/print_string.md)
+- [Define string](https://github.com/vivirenremoto/equivalent_code/blob/master/content/define_string.md)
+- [Define integer number](https://github.com/vivirenremoto/equivalent_code/blob/master/content/define_integer_number.md)
+- [Define decimal number](https://github.com/vivirenremoto/equivalent_code/blob/master/content/define_decimal_number.md)
+- [Define array](https://github.com/vivirenremoto/equivalent_code/blob/master/content/define_array.md)
+- [Define boolean](https://github.com/vivirenremoto/equivalent_code/blob/master/content/define_boolean.md)
+- [Define string constant](https://github.com/vivirenremoto/equivalent_code/blob/master/content/define_string_constant.md)
+- [Debug](https://github.com/vivirenremoto/equivalent_code/blob/master/content/debug.md)
+- [Round number to two decimals](https://github.com/vivirenremoto/equivalent_code/blob/master/content/round_number_two_decimals.md)
+- [Convert integer to string](https://github.com/vivirenremoto/equivalent_code/blob/master/content/convert_integer_to_string.md)
+- [Convert string to integer](https://github.com/vivirenremoto/equivalent_code/blob/master/content/convert_string_to_integer.md)
+- [Concatenate two strings](https://github.com/vivirenremoto/equivalent_code/blob/master/content/concatenate_two_strings.md)
+- [If condition](https://github.com/vivirenremoto/equivalent_code/blob/master/content/if_condition.md)
+- [Loop For](https://github.com/vivirenremoto/equivalent_code/blob/master/content/loop_for.md)
+- [Loop While](https://github.com/vivirenremoto/equivalent_code/blob/master/content/loop_while.md)
+- [Replace text](https://github.com/vivirenremoto/equivalent_code/blob/master/content/replace_text.md)
+- [Split string to array](https://github.com/vivirenremoto/equivalent_code/blob/master/content/split_string_to_array.md)
+- [Parse string to JSON object](https://github.com/vivirenremoto/equivalent_code/blob/master/content/parse_json.md)
+- [Convert array to JSON string](https://github.com/vivirenremoto/equivalent_code/blob/master/content/convert_array_to_json_string.md)
+- [Import file](https://github.com/vivirenremoto/equivalent_code/blob/master/content/import_file.md)
+- [Store value](https://github.com/vivirenremoto/equivalent_code/blob/master/content/store_value.md)
+- [Retrieve stored value](https://github.com/vivirenremoto/equivalent_code/blob/master/content/retrieve_stored_value.md)
+- [Read content from a URL](https://github.com/vivirenremoto/equivalent_code/blob/master/content/read_content_from_url.md)
+- [Create a local file](https://github.com/vivirenremoto/equivalent_code/blob/master/content/create_local_file.md)
+- [Read a local file](https://github.com/vivirenremoto/equivalent_code/blob/master/content/read_local_file.md)
+- [Delete a local file](https://github.com/vivirenremoto/equivalent_code/blob/master/content/delete_local_file.md)
 
-# Próximamente...
+# Notes
 
-- Obtener fecha y hora actual
-- Importar fichero
-- Guardar cookie
-- Consultar cookie
-- Eliminar cookie
-- Guardar variable en la sesión
-- Consultar variable en la sesión
-- Conectarse a una base de datos MySQL
-- Hacer una consulta a una base de datos MySQL
-- Leer contenido de una URL
-- Crear un fichero
-- Leer un fichero
-- Eliminar un fichero
-- Parsear XML
-
-# Notas
-
-Los lenguajes de programación van ordenados alfabéticamente.
+In each problem the programming languages are arranged alphabetically.
