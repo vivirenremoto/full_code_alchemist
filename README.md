@@ -1,4 +1,4 @@
-# Code Alchemist
+# Full Code Alchemist
 
 I want to recopile the solution to simple programming problems in several languages such as defining a text string, concatenating two text strings or replacing one text within another.
 
@@ -35,4 +35,5 @@ I think this can be very useful when you want to learn a new language or you nee
 
 # Notes
 
-In each problem the programming languages are arranged alphabetically.
+- In each problem the programming languages solutions are arranged alphabetically.
+- If you know a better solution for a problem the pull request are welcome.
