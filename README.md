@@ -13,11 +13,14 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 - [Define array](https://github.com/vivirenremoto/equivalent_code/blob/master/define_array.md)
 - [Define boolean](https://github.com/vivirenremoto/equivalent_code/blob/master/define_boolean.md)
 - [Define string constant](https://github.com/vivirenremoto/equivalent_code/blob/master/define_string_constant.md)
+- [Debug](https://github.com/vivirenremoto/equivalent_code/blob/master/debug.md)
 - [Round number to two decimals](https://github.com/vivirenremoto/equivalent_code/blob/master/round_number_two_decimals.md)
 - [Convert integer to string](https://github.com/vivirenremoto/equivalent_code/blob/master/convert_integer_to_string.md)
 - [Convert string to integer](https://github.com/vivirenremoto/equivalent_code/blob/master/convert_string_to_integer.md)
 - [Concatenate two strings](https://github.com/vivirenremoto/equivalent_code/blob/master/concatenate_two_strings.md)
-- [Debug](https://github.com/vivirenremoto/equivalent_code/blob/master/debug.md)
+- [If condition](https://github.com/vivirenremoto/equivalent_code/blob/master/if_condition.md)
+- [Loop Foor](https://github.com/vivirenremoto/equivalent_code/blob/master/loop_for.md)
+- [Loop While](https://github.com/vivirenremoto/equivalent_code/blob/master/loop_while.md)
 - [Replace text](https://github.com/vivirenremoto/equivalent_code/blob/master/replace_text.md)
 - [Split string to array](https://github.com/vivirenremoto/equivalent_code/blob/master/split_string_to_array.md)
 - [Parse string to JSON object](https://github.com/vivirenremoto/equivalent_code/blob/master/parse_json.md)
@@ -26,9 +29,6 @@ Creo que esto puede ser muy útil cuando quieres aprender un nuevo lenguaje, sab
 # Próximamente...
 
 - Obtener fecha y hora actual
-- Condición IF
-- Bucle FOR
-- Bucle WHILE
 - Importar fichero
 - Guardar cookie
 - Consultar cookie
