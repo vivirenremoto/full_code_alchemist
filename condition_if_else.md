@@ -1,4 +1,4 @@
-# Condition if - else
+# Condition if
 
 **Java - Android**
 ```
