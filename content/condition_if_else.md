@@ -1,45 +1,65 @@
-# Condition if
+# If condition
 
 **Java - Android**
 ```
-if (variable.equals("red")) {
+if (variable.equals("red"))
+{
     ...
-} else if (variable.equals("green")) {
+}
+else if (variable.equals("green"))
+{
     ...
-} else {
+}
+else
+{
     ...
 }
 ```
 
 **Javascript**
 ```
-if (variable == "red") {
+if (variable == "red")
+{
     ...
-} else if (variable == "green") {
+}
+else if (variable == "green")
+{
     ...
-} else {
+}
+else
+{
     ...
 }
 ```
 
 **Objective-C**
 ```
-if variable == "red" {
+if( variable == "red")
+{
     ...
-} else if variable == "green" {
+}
+else if (variable == "green")
+{
     ...
-} else {
+}
+else
+{
     ...
 }
 ```
 
 **PHP**
 ```
-if ($variable == "red") {
+if ($variable == "red")
+{
     ...
-} else if ($variable == "green") {
+}
+else if ($variable == "green")
+{
     ...
-} else {
+}
+else
+{
     ...
 }
 ```
