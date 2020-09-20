@@ -2,7 +2,7 @@
 
 Usually to find the code equivalent from one language to another one I use google and stackoverflow, I want to make something easier to use.
 
-I want to recopile the solution to simple programming problems such as defining a text string, concatenating two text strings or replacing one text within another in many languages as posible.
+I want to recopile the solution to simple programming problems such as defining a string variable, concatenating two strings or replacing a text in many languages as posible.
 
 I think this can be very useful when you want to learn a new language or you need to switch between them, you know the theory but maybe you don't know the syntax.
 
@@ -38,4 +38,4 @@ I think this can be very useful when you want to learn a new language or you nee
 # Notes
 
 - In each problem the programming languages solutions are arranged alphabetically.
-- If you know a better solution for a problem the pull request are welcome.
+- If you know a better solution for a problem or you are missing a programming language solution all the pull request are welcome.
