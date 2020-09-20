@@ -2,7 +2,7 @@
 
 Usually to find the code equivalent from one language to another one I use google and stackoverflow, I want to make something easier to use.
 
-I want to recopile the solution to simple programming problems in several languages such as defining a text string, concatenating two text strings or replacing one text within another.
+I want to recopile the solution to simple programming problems such as defining a text string, concatenating two text strings or replacing one text within another in many languages as posible.
 
 I think this can be very useful when you want to learn a new language or you need to switch between them, you know the theory but maybe you don't know the syntax.
 
