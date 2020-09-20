@@ -1,4 +1,4 @@
-# Read content from URL
+# Read content from a URL
 
 **Java - Android**
 ```
