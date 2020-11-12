@@ -10,7 +10,7 @@ for (int i = 0; i < 100; i++)
 
 **Javascript**
 ```
-for (i = 0; i < 100; i++)
+for (var i = 0; i < 100; i++)
 {
      ...
 }
