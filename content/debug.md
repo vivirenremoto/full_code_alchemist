@@ -19,3 +19,8 @@ NSLog(@"%@", variable);
 ```
 var_dump($variable);
 ```
+
+**Unity**
+```
+Debug.Log(variable);
+```
